@@ -18,7 +18,7 @@ PASSWORD = '<your password>'
 2. **Run the Application**
 
 ```
-pip install -m requirements.txt
+pip install -r requirements.txt
 python3 ./main.py
 ```
 
